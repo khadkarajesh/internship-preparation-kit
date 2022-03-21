@@ -8,6 +8,8 @@ The repository consists of the technical and behavioural questions asked by fren
 4. [Perfect Square in Given Range](https://www.geeksforgeeks.org/print-all-perfect-squares-from-the-given-range/) ~10min
 5. [String Reverse](https://leetcode.com/problems/reverse-string/) ~10min
 6. [Millenium Falcon Challenge](https://github.com/dataiku/millenium-falcon-challenge) ~7 days
+7. [Duplicate Number in Array](https://leetcode.com/problems/find-the-duplicate-number/)
+
 
 ### Technical Projects
 1. [Wikipedia Word Search using Django](https://github.com/khadkarajesh/wikipedia-word-search) ~1 Week
@@ -20,3 +22,21 @@ The repository consists of the technical and behavioural questions asked by fren
 4. What are your core values?
 5. What are you weakness and How are you working on it to improve yourself?
 6. What is the most complext problem have you faced till now? and how did you solve it? 
+
+
+### Resources
+1. [Reverse Interview](https://github.com/viraptor/reverse-interview)
+2. [Global Company Hiring Without Whiteboard](https://github.com/poteto/hiring-without-whiteboards)
+3. [Resume Builder](https://arc.dev/resume/builder)
+4. [Coding Inerview University](https://github.com/jwasham/coding-interview-university)
+
+### Coding Platform Companies Invite
+1. [Coding Game](https://www.codingame.com)
+2. [Hackerrank](https://www.hackerrank.com/)
+3. [Test Gorilla](https://www.testgorilla.com/)
+
+### Renumeration 
+- €1200 - €2200 Based Upon work Experience
+
+### Duration
+- 4-6 Months
