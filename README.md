@@ -2,15 +2,15 @@ The repository consists of the technical and behavioural questions asked by fren
 
 
 ### Technical Questions
-1. [Run Length Encoding](https://leetcode.com/problems/string-compression/)
-2. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
-3. [CamelCase to SnakeCase](https://www.geeksforgeeks.org/python-program-to-convert-camel-case-string-to-snake-case/)
-4. [Perfect Square in Given Range](https://www.geeksforgeeks.org/print-all-perfect-squares-from-the-given-range/)
-5. [String Reverse](https://leetcode.com/problems/reverse-string/)
-6. [Millenium Falcon Challenge](https://github.com/dataiku/millenium-falcon-challenge)
+1. [Run Length Encoding](https://leetcode.com/problems/string-compression/) ~35min
+2. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) ~35min
+3. [CamelCase to SnakeCase](https://www.geeksforgeeks.org/python-program-to-convert-camel-case-string-to-snake-case/) ~10min
+4. [Perfect Square in Given Range](https://www.geeksforgeeks.org/print-all-perfect-squares-from-the-given-range/) ~10min
+5. [String Reverse](https://leetcode.com/problems/reverse-string/) ~10min
+6. [Millenium Falcon Challenge](https://github.com/dataiku/millenium-falcon-challenge) ~7 days
 
 ### Technical Projects
-1. [Wikipedia Word Search using Django](https://github.com/khadkarajesh/wikipedia-word-search)
+1. [Wikipedia Word Search using Django](https://github.com/khadkarajesh/wikipedia-word-search) ~1 Week
 
 
 ### Behavioural Questions
