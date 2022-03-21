@@ -13,7 +13,7 @@ The repository consists of the technical and behavioural questions asked by fren
 1. [Wikipedia Word Search using Django](https://github.com/khadkarajesh/wikipedia-word-search)
 
 
-Behavioural Questions
+### Behavioural Questions
 1. Introduce yourself
 2. What do you know about Company?
 3. What are the core values of Company?
