@@ -20,7 +20,7 @@ The repository consists of the technical and behavioural questions asked by fren
 2. What do you know about Company?
 3. What are the core values of Company?
 4. What are your core values?
-5. What are you weakness and How are you working on it to improve yourself?
+5. What are your weakness and How are you working on it to improve yourself?
 6. What is the most complext problem have you faced till now? and how did you solve it? 
 
 
