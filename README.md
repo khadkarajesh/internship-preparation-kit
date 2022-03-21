@@ -24,11 +24,23 @@ The repository consists of the technical and behavioural questions asked by fren
 6. What is the most complext problem have you faced till now? and how did you solve it? 
 
 
+### Companies for English Speaker
+1. [Datadog](https://www.datadoghq.com/)
+2. [Stockely](https://www.welcometothejungle.com/fr/companies/stockly-1)
+3. [Dataiku](https://www.dataiku.com/)
+4. [Deezer](https://www.deezer.com/en/)
+
+
 ### Resources
 1. [Reverse Interview](https://github.com/viraptor/reverse-interview)
 2. [Global Company Hiring Without Whiteboard](https://github.com/poteto/hiring-without-whiteboards)
 3. [Resume Builder](https://arc.dev/resume/builder)
 4. [Coding Inerview University](https://github.com/jwasham/coding-interview-university)
+
+### Job Search Platform
+1. [welcometothejungle](https://www.welcometothejungle.com/)
+2. [indeed](https://indeed.com/)
+3. [Linkedin](https://www.linkedin.com/)
 
 ### Coding Platform Companies Invite
 1. [Coding Game](https://www.codingame.com)
