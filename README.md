@@ -1,4 +1,4 @@
-The repository consists of the technical and behavioural questions asked by french tech companies for internships. The name of the companies will not be specified as it will not be fair from companies perspective. The goal is to better prepare for the internship in France.
+The repository consists of the technical and behavioural questions asked by french tech companies for internships. The name of the companies will not be specified as it will not be fair from companies perspective. The goal is to share resources helpful for the internship in France.
 
 
 ### Technical Questions
