@@ -9,10 +9,12 @@ The repository consists of the technical and behavioural questions asked by fren
 5. [String Reverse](https://leetcode.com/problems/reverse-string/) ~10min
 6. [Millenium Falcon Challenge](https://github.com/dataiku/millenium-falcon-challenge) ~7 days
 7. [Duplicate Number in Array](https://leetcode.com/problems/find-the-duplicate-number/)
+8. [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
 
 
 ### Technical Projects
 1. [Wikipedia Word Search using Django](https://github.com/khadkarajesh/wikipedia-word-search) ~1 Week
+2. [Large Data Handling](https://github.com/khadkarajesh/assessment) ~1 Week
 
 
 ### Behavioural Questions
