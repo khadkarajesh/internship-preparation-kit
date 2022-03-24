@@ -17,6 +17,17 @@ The repository consists of the technical and behavioural questions asked by fren
 2. [Large Data Handling](https://github.com/khadkarajesh/assessment) ~1 Week
 
 
+### Programming Concept to Prepare for Technical Test
+1. Sliding Window
+2. Two Pointer
+3. Fast and Slow Pointer
+4. Depth First Search
+5. Bredth First Search
+6. Graph
+7. Tree
+8. Binary Search Tree
+
+
 ### Behavioural Questions
 1. Introduce yourself
 2. What do you know about Company?
