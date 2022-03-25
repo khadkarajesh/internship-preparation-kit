@@ -43,12 +43,11 @@ The repository consists of the technical and behavioural questions asked by fren
 3. [Dataiku](https://www.dataiku.com/)
 4. [Deezer](https://www.deezer.com/en/)
 
+### Tips for Writting Effective Resume
+- [How to write an effective developer resume: Advice from a hiring manager](https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/)
 
-### Resources
-1. [Reverse Interview](https://github.com/viraptor/reverse-interview)
-2. [Global Company Hiring Without Whiteboard](https://github.com/poteto/hiring-without-whiteboards)
-3. [Resume Builder](https://arc.dev/resume/builder)
-4. [Coding Inerview University](https://github.com/jwasham/coding-interview-university)
+### Resume Template
+- [Resume Template](https://blog.pragmaticengineer.com/the-pragmatic-engineers-resume-template/)
 
 ### Job Search Platform
 1. [welcometothejungle](https://www.welcometothejungle.com/)
@@ -59,6 +58,12 @@ The repository consists of the technical and behavioural questions asked by fren
 1. [Coding Game](https://www.codingame.com)
 2. [Hackerrank](https://www.hackerrank.com/)
 3. [Test Gorilla](https://www.testgorilla.com/)
+
+### Additional Resources
+1. [Reverse Interview](https://github.com/viraptor/reverse-interview)
+2. [Global Company Hiring Without Whiteboard](https://github.com/poteto/hiring-without-whiteboards)
+3. [Resume Builder](https://arc.dev/resume/builder)
+4. [Coding Inerview University](https://github.com/jwasham/coding-interview-university)
 
 ### Renumeration 
 - €1200 - €2200 Based Upon work Experience
