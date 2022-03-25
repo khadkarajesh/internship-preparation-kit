@@ -49,12 +49,21 @@ The repository consists of the technical and behavioural questions asked by fren
 ### Resume Template
 - [Resume Template](https://blog.pragmaticengineer.com/the-pragmatic-engineers-resume-template/)
 
+### Recommended Books
+1. [Cracking in coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+2. [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
+3. [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python)
+
+### Recommended Courses
+1. [Grokking the Coding Interview](https://www.educative.io/courses/grokking-the-coding-interview)
+2. [NeetCode](https://www.youtube.com/c/NeetCode)
+
 ### Job Search Platform
 1. [welcometothejungle](https://www.welcometothejungle.com/)
 2. [indeed](https://indeed.com/)
 3. [Linkedin](https://www.linkedin.com/)
 
-### Coding Platform Companies Invite
+### Coding Platform Companies Invites
 1. [Coding Game](https://www.codingame.com)
 2. [Hackerrank](https://www.hackerrank.com/)
 3. [Test Gorilla](https://www.testgorilla.com/)
