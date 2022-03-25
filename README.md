@@ -43,7 +43,7 @@ The repository consists of the technical and behavioural questions asked by fren
 3. [Dataiku](https://www.dataiku.com/)
 4. [Deezer](https://www.deezer.com/en/)
 
-### Tips for Writting Effective Resume
+### Tips for Effective Resume
 - [How to write an effective developer resume: Advice from a hiring manager](https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/)
 
 ### Resume Template
