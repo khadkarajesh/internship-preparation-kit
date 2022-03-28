@@ -15,6 +15,7 @@ The repository consists of the technical and behavioural questions asked by fren
 ### Technical Projects
 1. [Wikipedia Word Search using Django](https://github.com/khadkarajesh/wikipedia-word-search) ~1 Week
 2. [Large Data Handling](https://github.com/khadkarajesh/assessment) ~1 Week
+3. [Service Discovery](https://github.com/khadkarajesh/service-discovery) ~1 Week
 
 
 ### Programming Concept to Prepare for Technical Test
