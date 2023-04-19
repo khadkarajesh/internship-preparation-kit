@@ -36,6 +36,11 @@ The repository consists of the technical and behavioural questions asked by fren
 4. What are your core values?
 5. What are your weakness and How are you working on it to improve yourself?
 6. What is the most complext problem have you faced till now? and how did you solve it? 
+7. What are some of the most significant software projects you've worked on in the past eight years, and what role did you play in them?
+8. How have you stayed up-to-date with the latest technological advancements in the field, and what new skills have you acquired recently?
+9. How do you approach problem-solving when working on a complex software project, and can you provide an example of a particularly challenging problem you    solved?
+10.Can you describe your experience working on a team, and how do you ensure effective collaboration with other team members?
+11.What are you looking for in your next job opportunity, and how do you envision your career progressing in the next few years?
 
 
 ### Companies for English Speaker
